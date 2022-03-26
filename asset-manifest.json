@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Grocery-Store-App/static/css/main.28404bdb.css",
+    "main.js": "/Grocery-Store-App/static/js/main.ca9dcbbf.js",
+    "static/js/787.61e29142.chunk.js": "/Grocery-Store-App/static/js/787.61e29142.chunk.js",
+    "index.html": "/Grocery-Store-App/index.html",
+    "main.28404bdb.css.map": "/Grocery-Store-App/static/css/main.28404bdb.css.map",
+    "main.ca9dcbbf.js.map": "/Grocery-Store-App/static/js/main.ca9dcbbf.js.map",
+    "787.61e29142.chunk.js.map": "/Grocery-Store-App/static/js/787.61e29142.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28404bdb.css",
+    "static/js/main.ca9dcbbf.js"
+  ]
+}
